@@ -1,0 +1,13 @@
+# Dataset
+*.zip
+data/
+images/
+
+# Model
+*.keras
+*.h5
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
+.env
